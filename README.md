@@ -18,10 +18,10 @@ I used tools like **Google Sheets** for data handling and visualization, and **G
 
 | File | Description |
 |------|-------------|
-| `life_expectancy.csv` | Original dataset (from WHO via Kaggle) |
-| `report.pdf` | My final report (exported from Google Docs) |
-| `charts/` | Scatter plots: GDP vs Life Expectancy, Schooling vs Life, Schooling vs GDP |
-| `Google_Sheet_Link.txt` | Link to live Google Sheet with full calculations |
+| Life Expectancy Data.csv | Original dataset (from WHO via Kaggle) |
+| report.pdf | My final report (exported from Google Docs) |
+| charts | Scatter plots: GDP vs Life Expectancy, Schooling vs Life, Schooling vs GDP |
+| Google_Sheet_Link.txt | Link to live Google Sheet with full calculations |
 
 ---
 
